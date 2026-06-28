@@ -1,8 +1,23 @@
-# Complete_Python_Course
+# 🐍 Complete Python Course (2026)
+
+Welcome to the **Complete Python Course** repository.
+
+This repository contains:
+
+✅ Python Notes
+✅ Practice Notebooks
+✅ Assignments
+✅ Projects
+✅ Lecture Videos
+✅ Source Code
+
+Whether you're a beginner or want to revise Python, everything will be uploaded here step by step.
 
 ## Lecture_01 ( Introduction to Python and How does Python Work Internallt ? )
-
-https://www.facebook.com/share/v/19AMfk7pn6/
+# English Lecture:
+https://www.facebook.com/share/v/19AMfk7pn6/  
+# Urdu/Hindi Lecture
+https://www.facebook.com/share/v/1CdXk7ijK5/    
 
 ## Lecture_02 ( what are Identifiers  in Python? )
 
