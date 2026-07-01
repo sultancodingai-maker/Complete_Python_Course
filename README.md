@@ -57,18 +57,25 @@ https://www.facebook.com/share/r/1Dy4h6gBX4/
 https://www.facebook.com/share/v/1BuExRfqir/
 ## Urdu/Hindi Lecture:
 https://www.facebook.com/share/r/1D7AVk9fJm/
+## Mini Quiz — Data Types in Python
+https://www.facebook.com/share/p/1KuvxfunaE/
 
 # Lecture_07 ( Integer, Float & Complex Numbers )
 ##  English Lecture:
 https://www.facebook.com/share/r/1Cre7G3XsV/
 ## Urdu/Hindi Lecture:
 https://www.facebook.com/share/r/1C9gmiNRzm/
+## Tasks:
+https://www.facebook.com/share/p/1ELzUYfCXB/
+
 
 # Lecture_08 ( Python Boolean Data Type)
 ##  English Lecture:
 https://www.facebook.com/share/r/18npsisD6i/
 ## Urdu/Hindi Lecture:
 https://www.facebook.com/share/r/1EN9DjXCSU/
+## Tasks:
+https://www.facebook.com/share/p/1LHv3wrBX7/
 
 
 # Lecture_09 ( String In Python)
@@ -76,12 +83,18 @@ https://www.facebook.com/share/r/1EN9DjXCSU/
 https://www.facebook.com/share/r/1KniR8akA3/
 ## Urdu/Hindi Lecture:
 https://www.facebook.com/share/r/198FKas3cx/
+## Tasks:
+https://www.facebook.com/share/p/15vESV93umz/
 
 
 # Lecture_10  ( List, Tuple, Set, Dictionary)
 ##  English Lecture:
 https://www.facebook.com/share/r/1CdvAz5y1Y/    (Part 01)
 https://www.facebook.com/share/r/14kYqi7Wzwq/    (Part 02)
+## Tasks 01:
+https://www.facebook.com/share/r/1HJq4YsyML/
+## Tasks 02:
+https://www.facebook.com/share/r/1HdCJwoM8K/
 
 ## Urdu/Hindi Lecture:
 https://www.facebook.com/share/r/1JQAeL6agC/ (Part 01)
@@ -91,6 +104,16 @@ https://www.facebook.com/share/r/1Dwkzf24LX/  (Part 02)
 ##  English Lecture:
 https://www.facebook.com/share/r/18f9qZgsB6/
 ## Urdu/Hindi Lecture:
+https://www.facebook.com/share/r/1EFdCxUXdT/   (Part 01)
+## Tasks 01:
+https://www.facebook.com/share/r/1CxoUQVFcZ/
+## Tasks 02:
+https://www.facebook.com/share/r/1LKhyqTPux/ 
+
+
+# Lecture_12  ( Input In Python )
+##  English Lecture:
+https://www.facebook.com/share/r/18pTLtPaye/
 
 
 
